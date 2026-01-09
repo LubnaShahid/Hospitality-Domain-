@@ -57,3 +57,6 @@ This project showcases the ability to:
 - Generate business insights
 - Apply financial KPIs in real-world scenarios
 - Use DAX and data modelling effectively
+ <img width="1920" height="1140" alt="image" src="https://github.com/LubnaShahid/Hospitality-Domain-/blob/main/Hospitality%20dashboard.png" />
+  # ![Hospitality Dashboard Preview].(https://github.com/LubnaShahid/Hospitality-Domain-/blob/main/Hospitality%20dashboard.png)
+  
