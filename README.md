@@ -1,7 +1,7 @@
 # Hospitality-Domain-Project
 Hospitality Revenue & Occupancy Analysis – Power BI Project
 #📌 Overview
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiM2ViZGFmNTItYTBjNy00NDc2LWEzNzMtZjYxN2Q1M2UxNzgyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live Report Link](https://app.powerbi.com/groups/me/reports/4f841f77-d919-47cf-9668-e22167e223b3/b7e8c0bd01781263e53f?experience=power-bi)
 
 This project focuses on analysing hotel performance data over a 3-month period. The goal is to understand revenue trends, booking behaviour, and key hospitality KPIs such as ADR, RevPAR, and Occupancy%. Using Power BI, DAX, and data modelling, the project delivers actionable insights that help hotel businesses improve revenue management and operational efficiency.
 
